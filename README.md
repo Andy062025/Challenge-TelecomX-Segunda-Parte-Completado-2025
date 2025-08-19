@@ -87,23 +87,24 @@ Gráfica de enjambre para ampliar el análisis de las variables más influyentes
 ![image_alt](https://github.com/Andy062025/Challenge-TelecomX-Segunda-Parte-Completado-2025/blob/2de251e8001bb9d68dfb52dbb7af528eaeadcfae/Gr%C3%A1fica%201%20enjambre%20Shap.png)
 
 
-## 📄Conclusión
+## Conclusión
+1. 📶Factores principales que más influyen en la cancelación.
+Del análisis estadístico y de interpretabilidad (coeficientes de la Regresión Logística y valores SHAP del modelo Ensemble), se identificaron 5 factores clave:
 
-1. 📶Factores principales que más influyen en la cancelación
-   Del análisis estadístico y de interpretabilidad (coeficientes de la Regresión Logística y valores SHAP del modelo Ensemble), se identificaron 5 factores clave:
-   -Tipo de contrato
-   -Costo mensual (charges.monthly
-   -Forma de pago
-   -Antigüedad y gasto acumulado (tenure, charges.total)
-   -Servicios adicionales
-   
+- Tipo de contrato
+- Costo mensual (charges.monthly)
+- Forma de pago
+- Antigüedad y gasto acumulado (tenure, charges.total)
+- Servicios adicionales
+
 2. 📈Propuesta de estrategias de Retención Recomendadas
-   Con base en los hallazgos, se proponen acciones concretas:
-   -Incentivar contratos a largo plazo
-   -Ajustar y flexibilizar los costos mensuales
-   -Optimizar los métodos de pago
-   -Potenciar servicios de valor agregado
-   -Estrategias diferenciadas según antigüedad del cliente
+Con base en los hallazgos, se proponen acciones concretas:
+
+- Incentivar contratos a largo plazo
+- Ajustar y flexibilizar los costos mensuales
+- Optimizar los métodos de pago
+- Potenciar servicios de valor agregado
+- Estrategias diferenciadas según antigüedad del cliente
 
 ## ✅Estado del proyecto
 

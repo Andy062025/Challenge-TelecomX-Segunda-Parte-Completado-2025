@@ -19,14 +19,14 @@ El presente proyecto busca identificar los factores principales, correlaciones y
  - Seaborn: Creación de gráficos estadísticos atractivos e informativos.
  - Scikit-learn: Implementación de modelos de Machine Learning y preprocesamiento.
 
- ##📁Estructura del proyecto
+ ## 📁Estructura del proyecto
 
 El repositorio en Git Hub contiene:
 - Cuaderno con los datos del challenge TelecomX. El desarrollo del codígo y gráficos del proyecto en lenguaje Python, junto con las librerias.
 - Al final del notebook se encuentra el informe Final con el análisis y gráficos del proyecto.
 - Readme (Este Archivo) para guía e información del proyecto.
 
-##🔎Instrucciones de Uso
+## 🔎Instrucciones de Uso
 - Clonar el repositorio de Git Hub [https://github.com/Andy062025/Challenge-TelecomX-Segunda-Parte-Completado-2025.git]
 - Hacer una copia del cuaderno en su Google Drive y luego editarlo en Google Colab. O puede descargarlo en su PC y editarlo en VS Code por ejemplo.
 - Para la visualización y el manejo de datos, va a necesitar instalar las bibliotecas NumPy, Pandas y Matplotlib. Cada una de estas bibliotecas va a ser necesaria para poder realizar la correcta manipulación y tratamiento de los datos.
@@ -87,7 +87,8 @@ Gráfica de enjambre para ampliar el análisis de las variables más influyentes
 ![image_alt](https://github.com/Andy062025/Challenge-TelecomX-Segunda-Parte-Completado-2025/blob/2de251e8001bb9d68dfb52dbb7af528eaeadcfae/Gr%C3%A1fica%201%20enjambre%20Shap.png)
 
 
-## Conclusión
+## 📄Conclusión
+
 1. 📶Factores principales que más influyen en la cancelación.
 Del análisis estadístico y de interpretabilidad (coeficientes de la Regresión Logística y valores SHAP del modelo Ensemble), se identificaron 5 factores clave:
 

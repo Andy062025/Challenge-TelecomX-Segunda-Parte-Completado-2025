@@ -65,20 +65,27 @@ El repositorio en Git Hub contiene:
 ## 📲Screenshots 
 
 Gráfica para visualizar más detalladamente las variables relacionadas al abandono (Churn). 
+
 ![image_alt](https://github.com/Andy062025/Challenge-TelecomX-Segunda-Parte-Completado-2025/blob/2de251e8001bb9d68dfb52dbb7af528eaeadcfae/Gr%C3%A1fica%204%20Matriz%20de%20correlaci%C3%B3n%20Variables%20abandono.png)
 
 Gráfica de matrices de confusión comparativas Modelos ( Regresión logística, Random Forest, KNN).
+
 ![image_alt](https://github.com/Andy062025/Challenge-TelecomX-Segunda-Parte-Completado-2025/blob/2de251e8001bb9d68dfb52dbb7af528eaeadcfae/Gr%C3%A1fica%203%20matrices%20de%20confusi%C3%B3n%20.png)
 
 Gráfica Curva ROC, comparativa de los diferentes modelos para determinar cual tiene la mayor capacidad de distinguir positivos de negativos en todos los umbrales.
+
 ![image_alt](https://github.com/Andy062025/Challenge-TelecomX-Segunda-Parte-Completado-2025/blob/2de251e8001bb9d68dfb52dbb7af528eaeadcfae/Gr%C3%A1fica%202%20Curvas%20ROC.png)
 
 Tabla comparativa de los modelos utilizados para la previsión de las variables más influyentes en el abandono (churn). 
+
 ![image_alt](https://github.com/Andy062025/Challenge-TelecomX-Segunda-Parte-Completado-2025/blob/2de251e8001bb9d68dfb52dbb7af528eaeadcfae/Gr%C3%A1fica%207%20Tabla%20de%20resultado%20Modelos%20.png)
+
 Esemble LR+GB, fue el modelo más adecuado para lograr estas predicciones porque al ser una combinación de modelos aprovecha lo mejor de LR (interpretabilidad) y GB (performance), logrando el mejor AUC.
 
 Gráfica de enjambre para ampliar el análisis de las variables más influyentes, asi como patrones y otros factores. 
+
 ![image_alt](https://github.com/Andy062025/Challenge-TelecomX-Segunda-Parte-Completado-2025/blob/2de251e8001bb9d68dfb52dbb7af528eaeadcfae/Gr%C3%A1fica%201%20enjambre%20Shap.png)
+
 
 ## 📄Conclusión
 
